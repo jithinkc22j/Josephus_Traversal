@@ -4,7 +4,10 @@
    By knowing k means we know the number of people skipped between the person
    who is dying and the next person dying is (k-1).
   
-  
+            % Josephus driven function  : josephus_main.m
+            % Josephus function         : josephus.m
+            
+            
             %   :param n: The number of objects in the circle (array)
             %   :param k: The number of skips after an object is removed
             %   :return: The position of the final object left
