@@ -20,4 +20,5 @@
   
   
   Acknowledge:
-  Robert R.F. DeFilippi, https://medium.com/@rrfd/explaining-the-josephus-algorithm-11d0c02e7212
+  1. Robert R.F. DeFilippi, https://medium.com/@rrfd/explaining-the-josephus-algorithm-11d0c02e7212
+  2. https://en.wikipedia.org/wiki/Josephus_problem
