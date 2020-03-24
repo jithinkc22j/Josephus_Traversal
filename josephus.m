@@ -1,5 +1,8 @@
 
 function anss=josephus(n,k) 
+
+disp('Created by Jithin K C');
+
 if (n==1) 
 	anss=1; 
 else
